@@ -35,7 +35,4 @@ This project highlights the importance of intuitive design and interaction in da
 <img width="1510" alt="Screenshot 2567-03-30 at 14 12 20" src="https://github.com/bright-arparwut/HCI-miniProject/assets/124503010/50f0980f-f315-4bc1-99f8-2016daf24e16">
 
 
-- Fellow students for their insights and suggestions.
-- Open-source contributors to the D3.js library.
-
 ---
