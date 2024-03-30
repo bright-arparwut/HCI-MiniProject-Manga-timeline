@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.chart-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#chart, #demographicPieChart {
+    flex: 1;
+}
+
+#averageSalesPerVolume {
+    flex: 1;
+}
