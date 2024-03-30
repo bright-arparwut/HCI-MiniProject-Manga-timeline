@@ -40,4 +40,3 @@ This project highlights the importance of intuitive design and interaction in da
 - Open-source contributors to the D3.js library.
 
 ---
-For more information or to contribute to this project, please contact [Your Name or GitHub Profile].
