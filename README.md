@@ -28,6 +28,11 @@ Manga, or Japanese comic books, have a significant impact on global culture, off
 
 ## Project Insights and Reflection
 This project highlights the importance of intuitive design and interaction in data visualization. By applying HCI principles, we aimed to create a user-friendly interface that not only informs but also engages users in exploring the dataset. Reflecting on user feedback and interaction data, we discuss the effectiveness of our design choices and potential areas for improvement.
+<img width="1159" alt="Screenshot 2567-03-30 at 12 48 14" src="https://github.com/bright-arparwut/HCI-miniProject/assets/124503010/8a32b0d0-47b4-4e3f-b425-093cc302249d">
+
+<img width="1074" alt="Screenshot 2567-03-30 at 12 48 29" src="https://github.com/bright-arparwut/HCI-miniProject/assets/124503010/9e96bb4a-4ac0-4eb4-bda3-db0f6de01155">
+
+<img width="1510" alt="Screenshot 2567-03-30 at 14 12 20" src="https://github.com/bright-arparwut/HCI-miniProject/assets/124503010/50f0980f-f315-4bc1-99f8-2016daf24e16">
 
 ## Future Directions
 - Incorporating user feedback to refine interaction design.
